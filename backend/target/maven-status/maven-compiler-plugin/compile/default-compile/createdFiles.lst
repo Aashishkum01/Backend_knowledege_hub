@@ -1,0 +1,8 @@
+com/example/knowledgehub/backend/resource/LearningResourceDtos$LearningResourceResponse.class
+com/example/knowledgehub/backend/category/CategoryDtos$CategoryResponse.class
+com/example/knowledgehub/backend/resource/LearningResourceDtos.class
+com/example/knowledgehub/backend/category/CategoryDtos.class
+com/example/knowledgehub/backend/resource/LearningResourceDtos$LearningResourceCreateRequest.class
+com/example/knowledgehub/backend/resource/LearningResourceDtos$LearningResourceUpdateRequest.class
+com/example/knowledgehub/backend/category/CategoryDtos$CategoryCreateRequest.class
+com/example/knowledgehub/backend/category/CategoryDtos$CategoryUpdateRequest.class
